@@ -1,7 +1,7 @@
 # Learning-TensorRT
 A repository used for record my learning process of TensorRT.
 
-For more information, please visit https://cyberyang.com/.
+For more information, please visit https://cyberyang.com/tag/TensorRT/.
 
 ## Enviroment
 
